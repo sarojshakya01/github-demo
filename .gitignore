@@ -21,3 +21,7 @@ Remote
 - commit
 - push
 - pull/fetch
+
+local -> commit -> local git -> push
+
+remote -> pull -> local git checkout -> local
